@@ -1,0 +1,6 @@
+{
+    "haskell.plugin.cabal-gild.config.path": "/home/gitpod/.cabal/bin/cabal-gild",
+    "editor.tabSize": 2,
+    "commit-message-editor.view.tabSize": 2,
+    "editor.renderWhitespace": "all"
+}
